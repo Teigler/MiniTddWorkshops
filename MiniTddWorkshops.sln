@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniTddWorkshops", "MiniTddWorkshops\MiniTddWorkshops.csproj", "{71DA1F08-C87C-4BE1-AE48-43311AD61BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniTddWorkshopsTest", "MiniTddWorkshopsTest\MiniTddWorkshopsTest.csproj", "{DFA28BE1-BCCB-47F4-A2AF-7ACE953AA498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71DA1F08-C87C-4BE1-AE48-43311AD61BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DA1F08-C87C-4BE1-AE48-43311AD61BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DA1F08-C87C-4BE1-AE48-43311AD61BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DA1F08-C87C-4BE1-AE48-43311AD61BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA28BE1-BCCB-47F4-A2AF-7ACE953AA498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA28BE1-BCCB-47F4-A2AF-7ACE953AA498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA28BE1-BCCB-47F4-A2AF-7ACE953AA498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA28BE1-BCCB-47F4-A2AF-7ACE953AA498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
